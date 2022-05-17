@@ -23,4 +23,5 @@ public static void main(String[] args) {
 	d.hardwareResourses();
 	d.softwareResourses();
 		}
+how r u;
 }
